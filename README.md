@@ -16,3 +16,7 @@ recent articles:
 - [Pagination as an ingredient for API scalability](https://evansopilo.hashnode.dev/pagination-as-an-ingredient-for-api-scalability)
 - [Software Testing ⚙ in a nutshell](https://evansopilo.hashnode.dev/software-testing-in-a-nutshell)
 <!-- BLOG-POST-LIST:END -->
+
+:telescope: I build lots of side projects, demos, hacks, and educational projects here:
+- [visuai](https://github.com/evansopilo/visuai), AI-based photo-sharing service that helps discover ideas such as recepies, home deco, interior design, style inspiration, fashion, places, events, health etc. by sharing photos. 
+- [flow](https://github.com/evansopilo/flow), a high throughput, low-latency service that provides an event-type agnostic API to ingest clickstream data from client apps such as mobile apps, and sites.
