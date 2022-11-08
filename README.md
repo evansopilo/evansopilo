@@ -20,3 +20,4 @@ recent articles:
 :telescope: I build lots of side projects, demos, hacks, and educational projects here:
 - [visuai](https://github.com/evansopilo/visuai), AI-based photo-sharing service that helps discover ideas such as recepies, home deco, interior design, style inspiration, fashion, places, events, health etc. by sharing photos. 
 - [flow](https://github.com/evansopilo/flow), a high throughput, low-latency service that provides an event-type agnostic API to ingest clickstream data from client apps such as mobile apps, and sites.
+- [tioncon](https://github.com/evansopilo/tioncon), A service that collects data from IoT sensors and embedded devices and stores it in scalable data store, provides a dashboard for the data visualisation, and an API for integrations.  
