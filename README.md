@@ -1,6 +1,7 @@
 # Hello, folks! 👋
 
-I'm a passionated Software Developer from Nairobi, Kenya with focus on backend and cloud development. I love bulding software that leverage different cloud technologies and architectures to build highly scalable, secured, fault tolerant systems that deliver the best to end-users. 
+I'm a passionated Software Developer from Nairobi, Kenya with focus on backend and cloud development. I love bulding software that leverage different cloud technologies and architectures to deliver highly scalable, secured, fault tolerant software systems that meet end-users.
+
 I enjoy turning complex problems into simple and intuitive solutions.
 
 When I’m not programming, I focus on my hobbies which are: article writing, playing video games and growing my network.
