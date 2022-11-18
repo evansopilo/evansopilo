@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-I'm a passionated Software Developer from Nairobi, Kenya with focus on backend and cloud development. I love bulding software that leverage different cloud technologies and architectures to deliver highly scalable, secured, fault tolerant software systems that meet end-users.
+I'm a passionated Software Developer from Nairobi, Kenya with focus on backend and cloud development. I love bulding software that leverage different technologies and architectures to deliver highly scalable, secured, fault tolerant software systems that meet end-users need.
 
 I enjoy turning complex problems into simple and intuitive solutions.
 
@@ -19,6 +19,7 @@ recent articles:
 <!-- BLOG-POST-LIST:END -->
 
 :telescope: I build lots of side projects, demos, hacks, and educational projects here:
+- [authbird](https://github.com/evansopilo/authbird), The goal of this project/repository is to demo how to develop a serverless authentication and authorization service using GoLang and Azure Services. ie. serveless storage and compute.
 - [visuai](https://github.com/evansopilo/visuai), AI-based photo-sharing service that helps discover ideas such as recepies, home deco, interior design, style inspiration, fashion, places, events, health etc. by sharing photos. 
 - [flow](https://github.com/evansopilo/flow), a high throughput, low-latency service that provides an event-type agnostic API to ingest clickstream data from client apps such as mobile apps, and sites.
 - [tioncon](https://github.com/evansopilo/tioncon), A service that collects data from IoT sensors and embedded devices and stores it in scalable data store, provides a dashboard for the data visualisation, and an API for integrations.  
